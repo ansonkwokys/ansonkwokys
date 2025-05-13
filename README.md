@@ -1,9 +1,4 @@
 # Hi, I'm Anson!🏇
-
-- 📖 I'm a Computer Science and Statistics student at the University of Toronto.
-- 🌱 I love exploring new languages, frameworks, and development practices.
-- 🚀 Currently working on exciting projects that boost productivity and streamline workflows.
-
 [Connect with me on LinkedIn!](https://www.linkedin.com/in/ansonkwokys/)
 
 ## 🚀 Skills and Technologies
