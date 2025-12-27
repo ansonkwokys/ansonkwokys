@@ -1,3 +1,4 @@
+<!--
 # Hi, I'm Anson!🏇
 [Connect with me on LinkedIn!](https://www.linkedin.com/in/ansonkwokys/)
 
@@ -29,7 +30,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-
+-->
 
 
 <!--
